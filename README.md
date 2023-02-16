@@ -1,12 +1,12 @@
 <h1 align="center">
 <img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
 <br/><br/>
-Dogecoin Coreless - DOGE-000  
+Dogecoin Vite Core - DOGE-000  
 </h1>
 
 <div align="center">
 
-h
+
 Dogecoin $DOGE (DOGE-000)
 https://x.vite.net/trade?symbol=DOGE-000_BTC-000
 
@@ -62,8 +62,10 @@ There are 3 types of branches in this repository:
 
 *Master and maintenance branches are exclusively mutable by release. Planned*
 *releases will always have a development branch and pull requests should be*
-*submitted against those. Maintenance branches are there for **bug fixes only,***
+*submitted against those. Maintenance branches are there for **bug fixed***
 *please submit new features against the development branch with the highest version.*
+
+Pull request needed next then we're done!
 
 ## Contributing 🤝
 

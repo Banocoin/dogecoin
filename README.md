@@ -1,12 +1,16 @@
 <h1 align="center">
-<img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
+<img src="https://i.imgur.com/DdpcXUa.png" alt="Dogecoin" width="300"/>
 <br/><br/>
 Dogecoin Vite Core - DOGE-000  
 </h1>
 
 <div align="center">
-
-
+<br>
+DOGECOIN FLIPPED!
+<Br>
+SO IT BEGINS! Thanks Bane!
+<br>
+<br>
 Dogecoin $DOGE (DOGE-000)
 https://x.vite.net/trade?symbol=DOGE-000_BTC-000
 

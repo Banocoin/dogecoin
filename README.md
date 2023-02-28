@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://i.imgur.com/DdpcXUa.png" alt="Dogecoin" width="300"/>
+<img src="https://i.imgur.com/0655dxZ.png" alt="Dogecoin" width="300"/>
 <br/><br/>
 Dogecoin Vite Core - DOGE-000  
 </h1>
